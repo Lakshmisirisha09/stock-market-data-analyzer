@@ -154,10 +154,6 @@ And in `reports/`:
 
 ---
 
-## 🏷️ GitHub Tags
-
-`python` `stock-market` `data-analysis` `pandas` `matplotlib` `yfinance` `financial-analysis` `technical-analysis` `portfolio-project` `beginner-friendly`
-
 ---
 
 ## 👤 Author
