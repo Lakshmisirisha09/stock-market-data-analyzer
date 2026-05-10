@@ -1,0 +1,36 @@
+==========================================================
+  STOCK MARKET ANALYSIS REPORT
+  Ticker    : TCS
+  Generated : 2026-05-10 12:06:42
+==========================================================
+
+KEY STATISTICS
+  Period             : 2023-01-02 → 2024-05-24
+  Trading Days       : 365
+  Start Price        : 3407.67
+  End Price          : 13393.87
+  Highest Price      : 13675.98
+  Lowest Price       : 3317.77
+  Total Return       : 293.05%
+  Avg Daily Return   : 0.3825%
+  Annual Volatility  : 17.09%
+  Sharpe Ratio       : 5.639
+  Current RSI        : 86.75
+  Best Day           : +4.16%
+  Worst Day          : -2.17%
+  Positive Days      : 213
+  Negative Days      : 151
+
+ANALYSIS INSIGHTS
+  📈 Strong performer: 293.05% total return over the period.
+  ✅ Low volatility (17.09%) — relatively stable stock.
+  💹 Excellent Sharpe ratio (5.639) — good risk-adjusted returns.
+  🔴 RSI 86.75 — stock may be OVERBOUGHT. Watch for pullback.
+  📅 Win rate: 213/364 days positive (58.5%).
+
+==========================================================
+  ⚠️  DISCLAIMER
+  This report is for EDUCATIONAL PURPOSES ONLY.
+  It does NOT constitute financial or investment advice.
+  Always consult a qualified financial advisor.
+==========================================================

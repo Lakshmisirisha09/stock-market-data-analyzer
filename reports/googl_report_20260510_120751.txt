@@ -1,0 +1,36 @@
+==========================================================
+  STOCK MARKET ANALYSIS REPORT
+  Ticker    : GOOGL
+  Generated : 2026-05-10 12:07:51
+==========================================================
+
+KEY STATISTICS
+  Period             : 2023-01-02 → 2024-05-24
+  Trading Days       : 365
+  Start Price        : 2802.73
+  End Price          : 20128.28
+  Highest Price      : 20124.74
+  Lowest Price       : 2767.81
+  Total Return       : 618.17%
+  Avg Daily Return   : 0.5538%
+  Annual Volatility  : 23.4%
+  Sharpe Ratio       : 5.966
+  Current RSI        : 59.78
+  Best Day           : +5.38%
+  Worst Day          : -2.87%
+  Positive Days      : 220
+  Negative Days      : 144
+
+ANALYSIS INSIGHTS
+  📈 Strong performer: 618.17% total return over the period.
+  📊 Moderate volatility (23.4%) — typical for growth stocks.
+  💹 Excellent Sharpe ratio (5.966) — good risk-adjusted returns.
+  🟡 RSI 59.78 — stock is in NEUTRAL territory.
+  📅 Win rate: 220/364 days positive (60.4%).
+
+==========================================================
+  ⚠️  DISCLAIMER
+  This report is for EDUCATIONAL PURPOSES ONLY.
+  It does NOT constitute financial or investment advice.
+  Always consult a qualified financial advisor.
+==========================================================

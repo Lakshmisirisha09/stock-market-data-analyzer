@@ -1,0 +1,36 @@
+==========================================================
+  STOCK MARKET ANALYSIS REPORT
+  Ticker    : RELIANCE
+  Generated : 2026-05-10 12:07:04
+==========================================================
+
+KEY STATISTICS
+  Period             : 2023-01-02 → 2024-05-24
+  Trading Days       : 365
+  Start Price        : 2425.03
+  End Price          : 6678.5
+  Highest Price      : 6967.51
+  Lowest Price       : 2382.91
+  Total Return       : 175.4%
+  Avg Daily Return   : 0.2858%
+  Annual Volatility  : 18.99%
+  Sharpe Ratio       : 3.793
+  Current RSI        : 55.71
+  Best Day           : +4.49%
+  Worst Day          : -2.32%
+  Positive Days      : 194
+  Negative Days      : 169
+
+ANALYSIS INSIGHTS
+  📈 Strong performer: 175.4% total return over the period.
+  ✅ Low volatility (18.99%) — relatively stable stock.
+  💹 Excellent Sharpe ratio (3.793) — good risk-adjusted returns.
+  🟡 RSI 55.71 — stock is in NEUTRAL territory.
+  📅 Win rate: 194/363 days positive (53.4%).
+
+==========================================================
+  ⚠️  DISCLAIMER
+  This report is for EDUCATIONAL PURPOSES ONLY.
+  It does NOT constitute financial or investment advice.
+  Always consult a qualified financial advisor.
+==========================================================

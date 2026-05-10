@@ -1,0 +1,36 @@
+==========================================================
+  STOCK MARKET ANALYSIS REPORT
+  Ticker    : AAPL
+  Generated : 2026-05-10 12:05:48
+==========================================================
+
+KEY STATISTICS
+  Period             : 2023-01-02 → 2024-05-24
+  Trading Days       : 365
+  Start Price        : 154.59
+  End Price          : 1180.27
+  Highest Price      : 1209.33
+  Lowest Price       : 147.85
+  Total Return       : 663.48%
+  Avg Daily Return   : 0.5693%
+  Annual Volatility  : 21.74%
+  Sharpe Ratio       : 6.599
+  Current RSI        : 73.71
+  Best Day           : +5.44%
+  Worst Day          : -3.08%
+  Positive Days      : 231
+  Negative Days      : 132
+
+ANALYSIS INSIGHTS
+  📈 Strong performer: 663.48% total return over the period.
+  📊 Moderate volatility (21.74%) — typical for growth stocks.
+  💹 Excellent Sharpe ratio (6.599) — good risk-adjusted returns.
+  🔴 RSI 73.71 — stock may be OVERBOUGHT. Watch for pullback.
+  📅 Win rate: 231/363 days positive (63.6%).
+
+==========================================================
+  ⚠️  DISCLAIMER
+  This report is for EDUCATIONAL PURPOSES ONLY.
+  It does NOT constitute financial or investment advice.
+  Always consult a qualified financial advisor.
+==========================================================

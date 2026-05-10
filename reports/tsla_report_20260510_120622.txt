@@ -1,0 +1,36 @@
+==========================================================
+  STOCK MARKET ANALYSIS REPORT
+  Ticker    : TSLA
+  Generated : 2026-05-10 12:06:22
+==========================================================
+
+KEY STATISTICS
+  Period             : 2023-01-02 → 2024-05-24
+  Trading Days       : 365
+  Start Price        : 249.24
+  End Price          : 2422.73
+  Highest Price      : 2725.36
+  Lowest Price       : 239.88
+  Total Return       : 872.05%
+  Avg Daily Return   : 0.6621%
+  Annual Volatility  : 42.59%
+  Sharpe Ratio       : 3.917
+  Current RSI        : 38.91
+  Best Day           : +9.61%
+  Worst Day          : -5.76%
+  Positive Days      : 193
+  Negative Days      : 171
+
+ANALYSIS INSIGHTS
+  📈 Strong performer: 872.05% total return over the period.
+  ⚠️  High annual volatility (42.59%) — suitable for risk-tolerant investors.
+  💹 Excellent Sharpe ratio (3.917) — good risk-adjusted returns.
+  🟡 RSI 38.91 — stock is in NEUTRAL territory.
+  📅 Win rate: 193/364 days positive (53.0%).
+
+==========================================================
+  ⚠️  DISCLAIMER
+  This report is for EDUCATIONAL PURPOSES ONLY.
+  It does NOT constitute financial or investment advice.
+  Always consult a qualified financial advisor.
+==========================================================

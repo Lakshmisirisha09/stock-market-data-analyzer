@@ -1,0 +1,36 @@
+==========================================================
+  STOCK MARKET ANALYSIS REPORT
+  Ticker    : HDFCBANK.NS
+  Generated : 2026-05-10 12:08:41
+==========================================================
+
+KEY STATISTICS
+  Period             : 2023-01-02 → 2023-12-29
+  Trading Days       : 245
+  Start Price        : 783.68
+  End Price          : 831.87
+  Highest Price      : 855.35
+  Lowest Price       : 710.68
+  Total Return       : 6.15%
+  Avg Daily Return   : 0.0301%
+  Annual Volatility  : 16.86%
+  Sharpe Ratio       : 0.45
+  Current RSI        : 70.07
+  Best Day           : +3.47%
+  Worst Day          : -5.91%
+  Positive Days      : 133
+  Negative Days      : 111
+
+ANALYSIS INSIGHTS
+  📈 Modest positive return of 6.15% over the period.
+  ✅ Low volatility (16.86%) — relatively stable stock.
+  ⚠️  Low Sharpe ratio (0.45) — poor risk-adjusted performance.
+  🔴 RSI 70.07 — stock may be OVERBOUGHT. Watch for pullback.
+  📅 Win rate: 133/244 days positive (54.5%).
+
+==========================================================
+  ⚠️  DISCLAIMER
+  This report is for EDUCATIONAL PURPOSES ONLY.
+  It does NOT constitute financial or investment advice.
+  Always consult a qualified financial advisor.
+==========================================================

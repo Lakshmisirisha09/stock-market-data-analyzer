@@ -1,0 +1,36 @@
+==========================================================
+  STOCK MARKET ANALYSIS REPORT
+  Ticker    : INFY
+  Generated : 2026-05-10 12:07:26
+==========================================================
+
+KEY STATISTICS
+  Period             : 2023-01-02 → 2024-05-24
+  Trading Days       : 365
+  Start Price        : 1613.93
+  End Price          : 7470.74
+  Highest Price      : 7785.02
+  Lowest Price       : 1612.31
+  Total Return       : 362.89%
+  Avg Daily Return   : 0.4306%
+  Annual Volatility  : 21.12%
+  Sharpe Ratio       : 5.138
+  Current RSI        : 58.89
+  Best Day           : +5.8%
+  Worst Day          : -2.03%
+  Positive Days      : 208
+  Negative Days      : 156
+
+ANALYSIS INSIGHTS
+  📈 Strong performer: 362.89% total return over the period.
+  📊 Moderate volatility (21.12%) — typical for growth stocks.
+  💹 Excellent Sharpe ratio (5.138) — good risk-adjusted returns.
+  🟡 RSI 58.89 — stock is in NEUTRAL territory.
+  📅 Win rate: 208/364 days positive (57.1%).
+
+==========================================================
+  ⚠️  DISCLAIMER
+  This report is for EDUCATIONAL PURPOSES ONLY.
+  It does NOT constitute financial or investment advice.
+  Always consult a qualified financial advisor.
+==========================================================
